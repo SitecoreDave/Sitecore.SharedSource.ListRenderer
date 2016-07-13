@@ -1,0 +1,11 @@
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Debug\Sitecore.SharedSource.ListRenderer.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Debug\Sitecore.SharedSource.ListRenderer.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Debug\Sitecore.Kernel.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Debug\Sitecore.SharedSource.ListRenderer.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Debug\Sitecore.SharedSource.ListRenderer.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Debug\Sitecore.SharedSource.ListRenderer.csprojResolveAssemblyReference.cache
+V:\code\sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Debug\Sitecore.SharedSource.ListRenderer.dll
+V:\code\sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Debug\Sitecore.SharedSource.ListRenderer.pdb
+V:\code\sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Debug\Sitecore.Kernel.dll
+V:\code\sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Debug\Sitecore.SharedSource.ListRenderer.dll
+V:\code\sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Debug\Sitecore.SharedSource.ListRenderer.pdb

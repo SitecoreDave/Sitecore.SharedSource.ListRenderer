@@ -1,0 +1,5 @@
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.InlineFrameRenderer\Sitecore.SharedSource.InlineFrameRenderer\bin\Debug\Sitecore.SharedSource.InlineFrameRenderer.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.InlineFrameRenderer\Sitecore.SharedSource.InlineFrameRenderer\bin\Debug\Sitecore.SharedSource.InlineFrameRenderer.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.InlineFrameRenderer\Sitecore.SharedSource.InlineFrameRenderer\bin\Debug\Sitecore.Kernel.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.InlineFrameRenderer\Sitecore.SharedSource.InlineFrameRenderer\obj\Debug\Sitecore.SharedSource.InlineFrameRenderer.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.InlineFrameRenderer\Sitecore.SharedSource.InlineFrameRenderer\obj\Debug\Sitecore.SharedSource.InlineFrameRenderer.pdb

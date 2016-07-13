@@ -1,0 +1,9 @@
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\obj\Debug\Sitecore.SharedSource.FriendlyBucket.csprojResolveAssemblyReference.cache
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\bin\Debug\Sitecore.SharedSource.FriendlyBucket.dll
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\bin\Debug\Sitecore.SharedSource.FriendlyBucket.pdb
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\bin\Debug\Sitecore.Buckets.dll
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\bin\Debug\Sitecore.ContentSearch.dll
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\bin\Debug\Sitecore.ContentSearch.Linq.dll
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\obj\Debug\Sitecore.SharedSource.FriendlyBucket.dll
+D:\code\github\Sitecore.SharedSource.FriendlyBucket\Sitecore.SharedSource.FriendlyBucket\obj\Debug\Sitecore.SharedSource.FriendlyBucket.pdb

@@ -1,0 +1,9 @@
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Sitecore.SharedSource.BucketFriendlyUrl.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Sitecore.SharedSource.BucketFriendlyUrl.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Sitecore.Buckets.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Sitecore.ContentSearch.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Sitecore.ContentSearch.Linq.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Sitecore.Kernel.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\obj\Debug\Sitecore.SharedSource.BucketFriendlyUrl.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.BucketFriendlyUrl\Sitecore.SharedSource.BucketFriendlyUrl\obj\Debug\Sitecore.SharedSource.BucketFriendlyUrl.pdb

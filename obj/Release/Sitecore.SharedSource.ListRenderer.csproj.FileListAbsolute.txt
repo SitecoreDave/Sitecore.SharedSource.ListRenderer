@@ -1,0 +1,6 @@
+V:\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Release\Sitecore.SharedSource.ListRenderer.dll
+V:\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Release\Sitecore.SharedSource.ListRenderer.pdb
+V:\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\bin\Release\Sitecore.Kernel.dll
+V:\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Release\Sitecore.SharedSource.ListRenderer.dll
+V:\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Release\Sitecore.SharedSource.ListRenderer.pdb
+V:\code\Sitecore\Sitecore.SharedSource.ListRenderer\Sitecore.SharedSource.ListRenderer\obj\Release\Sitecore.SharedSource.ListRenderer.csprojResolveAssemblyReference.cache
